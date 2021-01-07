@@ -1,6 +1,6 @@
 # SMART-Robotic-Car
 
-Built an Arduino-Controlled Robotic Car, equipped with line-tracking and obstacle avoidance capabilities. Utilized open source code for robot cars and customized it for improved performance and smoother functionality. 
+Built an Arduino-Controlled Robotic Car, equipped with line-tracking and obstacle avoidance capabilities. Utilized open source code for robot cars and currently customizing it for improved performance and smoother functionality. 
 
 ## Hardware:
 UNO R3
